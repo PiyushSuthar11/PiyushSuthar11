@@ -14,7 +14,7 @@ I'm a passionate **developer** specializing in **JavaScript, React, HTML, and CS
 -  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### 📫 Let's Connect!
 - 🌐 [Portfolio]()
-- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-suthar-2a0ba22a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-suthar-2a0ba22a6)
 - 🐦 [Twitter](https://x.com/Piyush781477?t=xCTfU733gVmvUSqtnm5YVg&s=09)
 
 ---
